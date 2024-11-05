@@ -12,9 +12,9 @@ int main()
 	int input;
 	string userChoice;
 
-	cout << "*******************************************************************************" << endl;
-	cout << "***This lab assignment is submitted by Heli Patel with student ID 143017226 ***" << endl;
-	cout << "*******************************************************************************" << endl;
+	cout << "************************************************************************************************************" << endl;
+	cout << "***This C++ project calculates the volume of basic geometric shapes: a sphere, a cylinder, and a cuboid. ***" << endl;
+	cout << "************************************************************************************************************" << endl;
 
 	do
 	{
